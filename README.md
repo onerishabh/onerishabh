@@ -1,7 +1,12 @@
+# Hi There 👋
+
+I am a full time grad student at The University of Melbourne.
+
+I am also a part-time freelance software engineer based in Melbourne, Australia. 
+
+# Bio
 - 👋 Hi, I’m @onerishabh
-- 👀 I’m interested in big data analytics, data-warehousing solution
-- 🌱 I’m currently learning docker
-- 💞️ I’m looking to collaborate on opensource contributions to snowflake-db
+- I am looking for contributors for my opensource project [data-ingestion-orchestration](https://github.com/onerishabh/data-ingestion-orchestration/tree/v1.0.0). 
 - 📫 How to reach me rishabh080598@gmail.com
 
 <!---
